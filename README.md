@@ -16,3 +16,4 @@ SELECT last_name FROM customer WHERE first_name = 'Mary';
 SELECT * FROM film WHERE length < 50 AND NOT rental_rate IN (2.99, 4.99);
 ``` 
 
+www.patika.dev
